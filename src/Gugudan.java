@@ -11,12 +11,13 @@ public class Gugudan {
 		if (number < 2) {
 			System.out.println("값을 잘못 입력하셨습니다.");
 		} else if (number > 9) {
-			System.out.println("값을 잘못 입력하셨습니다.");
+			System.out.println("값을 잘못 입력하셨습니다.^^");
 		} else {
 			for(int i=1; i<10; i++) {
 				System.out.println(number * i);
 			}
 		}
+		
 		
 		// 6단
 //		int i=1;
