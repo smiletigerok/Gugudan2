@@ -9,7 +9,7 @@ public class Gugudan {
 		System.out.println("사용자가 입력한 값 : " + number + "단");
 		
 		if (number < 2) {
-			System.out.println("값을 잘못 입력하셨습니다.");
+			System.out.println("값을 잘못 입력하셨습니다.^^");
 		} else if (number > 9) {
 			System.out.println("값을 잘못 입력하셨습니다.^^");
 		} else {
