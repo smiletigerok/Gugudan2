@@ -1,3 +1,5 @@
+//클래스 활용해 구구단 다시 구현
+
 public class Gugudan {
 	public static int[] calculate(int times) {
 		        //int[] : 출력해줌, (int times) : 입력값을 받아서
@@ -13,15 +15,7 @@ public class Gugudan {
 		for(int i=0; i<result.length; i++) {
 			System.out.println(result[i]);
 		}
-	}
-	
-	public static void main(String[] args) {
-		        //void는 반환(출력)되는 값이 없다는 의미
-		for(int i=2; i<10; i++) {
-			int[] result = calculate(i);
-			print(result);			
-		}
-	}
+	}	
 }
 
 // 구구단 메소드 활용
