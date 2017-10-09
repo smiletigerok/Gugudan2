@@ -24,7 +24,7 @@ public class Gugudan {
 	}
 }
 
-// 메소드 활용
+// 구구단 메소드 활용
 /*public class Gugudan {
 	public static int[] calculate(int times) {
 		//int[] : 출력해줌, (int times) : 입력값을 받아서
